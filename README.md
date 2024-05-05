@@ -1,5 +1,5 @@
 hello
-\r\n
+\n
 hello
-\r\n
+\n
 hello
