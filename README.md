@@ -1,1 +1,1 @@
-hello \r\n hello \r\n hello
+hello \n hello \n hello
